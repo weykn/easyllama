@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="200" viewBox="0 0 640 200" role="img" aria-label="easyllama terminal session">
+  <rect width="640" height="200" rx="10" fill="#232b35"/>
+  <rect x="1" y="1" width="638" height="198" rx="9" fill="none" stroke="#3b82c4" stroke-width="2"/>
+  <g font-family="'JetBrains Mono','Fira Code','DejaVu Sans Mono',Menlo,Consolas,monospace" font-size="18" xml:space="preserve">
+    <text x="20" y="38"><tspan fill="#6cb6e8" font-weight="bold">❯</tspan><tspan fill="#5fb3b3"> ./easyllama.py</tspan></text>
+    <text x="20" y="66"><tspan fill="#7ec0e8" font-weight="bold">easyllama</tspan><tspan fill="#8a9199"> · Enhanced Local LLM Shell</tspan></text>
+    <text x="20" y="94" fill="#7fb685">Using gemma4:12b. Type /help for commands.</text>
+    <text x="20" y="122"><tspan fill="#7fb685" font-weight="bold">gemma4:12b</tspan><tspan fill="#6cb6e8" font-weight="bold"> $</tspan><tspan fill="#e6e6e6"> Hey bro</tspan></text>
+    <text x="20" y="150" fill="#e6e6e6">Hey! What's up? How can I help you today?</text>
+    <text x="20" y="178"><tspan fill="#7fb685" font-weight="bold">gemma4:12b</tspan><tspan fill="#6cb6e8" font-weight="bold"> $</tspan></text>
+    <rect x="171" y="163" width="2" height="20" fill="#6cb6e8"/>
+  </g>
+</svg>
