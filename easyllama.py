@@ -118,12 +118,10 @@ def banner():
     print(f"{BOLD}{CYAN}{APP}{RESET} {DIM}· {TAGLINE}{RESET}")
 
 def show_help():
-    banner()
     title("Commands")
     for cmd, desc in COMMANDS:
         print(f"  {YELLOW}{cmd:<24}{RESET} {desc}")
     print(f"  {DIM}Tab completes commands and arguments, ↑/↓ browse history.{RESET}")
-    print(f"  {DIM}From your shell, run one thing and exit: {APP} hello, {APP} /list, {APP} '!ls'{RESET}")
 
 def parse_size(s):
     """'4K' -> 4096, '16k' -> 16384, '1M' -> 1048576, '8192' -> 8192."""
